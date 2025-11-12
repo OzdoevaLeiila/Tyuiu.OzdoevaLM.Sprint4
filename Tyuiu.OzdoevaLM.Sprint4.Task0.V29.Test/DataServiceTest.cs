@@ -13,6 +13,7 @@ namespace Tyuiu.OzdoevaLM.Sprint4.Task0.V29.Test
 
             int res = ds.GetSumOddArrEl(numsArray);
             int wait = 32;
+
             Assert.AreEqual(wait, res);
 
         }
