@@ -1,5 +1,5 @@
-﻿using Tyuiu.OzdoevaLM.Sprint4.Task3V4.Lib;
-namespace Tyuiu.OzdoevaLM.Sprint4.Task3V4.Test
+﻿using Tyuiu.OzdoevaLM.Sprint4.Task3.V4.Lib;
+namespace Tyuiu.OzdoevaLM.Sprint4.Task3.V4.Test
 {
     [TestClass]
     public class DataServiceTest
