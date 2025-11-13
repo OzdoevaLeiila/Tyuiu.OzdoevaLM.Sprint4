@@ -18,9 +18,6 @@ namespace Tyuiu.OzdoevaLM.Sprint4.Task3V4
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Найти минимальный элемент в последнем столбце массива                   *");
-            Console.WriteLine("*                                                                         *");
-            Console.WriteLine("*                                                                         *");
-            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
