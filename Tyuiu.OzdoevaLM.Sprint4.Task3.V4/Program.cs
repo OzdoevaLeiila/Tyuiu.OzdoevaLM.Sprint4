@@ -11,7 +11,7 @@ namespace Tyuiu.OzdoevaLM.Sprint4.Task3.V4
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                             *");
+            Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                             *"); 
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #4                                                              *");
             Console.WriteLine("* Выполнила: Оздоева Лейла Магомедовна | ИИПб-25-1                        *");
