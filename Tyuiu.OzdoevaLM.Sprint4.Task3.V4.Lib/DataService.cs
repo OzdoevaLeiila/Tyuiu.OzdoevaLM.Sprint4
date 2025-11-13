@@ -7,7 +7,7 @@ namespace Tyuiu.OzdoevaLM.Sprint4.Task3.V4.Lib
         {
             int rows = array.GetUpperBound(0) + 1; // кол-во строк
             int columns = array.Length / rows;   // кол-во столбцов
-                                                 // 
+                                                 
             int minim = 9;
             for (int i = 0; i < rows; i++)
             {
